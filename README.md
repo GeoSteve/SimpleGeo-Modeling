@@ -1,5 +1,11 @@
 # SimpleGeo - Modeling
 
+## Demonstration
+
+**Here is a sneak peek at the project:**
+
+[Distance Selection Chaining](http://geosteve.github.io/SimpleGeo-Modeling/)
+
 ## Installation
 
 **Clone the repo:**
