@@ -4,7 +4,7 @@
 
 **Here is a sneak peek at the project:**
 
-[SimpleGeo - Modeling](http://geosteve.github.io/SimpleGeo-Modeling/)
+[SimpleGeo - Modeling](http://geosteve.github.io/SimpleGeo-Modeling-Concept)
 
 ## Installation
 
