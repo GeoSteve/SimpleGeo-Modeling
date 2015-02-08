@@ -97,6 +97,9 @@ html, body, .container, #model-builder, .container {
     background-color: #fff;
 }
 
+em.warning {
+    color: red;
+}
 #map {
     position: absolute;
 }
